@@ -1,4 +1,4 @@
-package Strategy.version2;
+package Strategy.version3;
 
 public class GoogleMap {
     public void findpath(String src, String dst, String mode) {

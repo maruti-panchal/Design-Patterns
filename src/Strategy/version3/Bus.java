@@ -1,4 +1,4 @@
-package Strategy.version2;
+package Strategy.version3;
 
 public class Bus implements CalculatePath {
     public void findpath(String src, String dst) {

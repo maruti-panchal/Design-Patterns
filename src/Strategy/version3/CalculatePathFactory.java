@@ -1,4 +1,4 @@
-package Strategy.version2;
+package Strategy.version3;
 
 import java.util.HashMap;
 import java.util.Map;

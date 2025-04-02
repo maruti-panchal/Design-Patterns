@@ -1,4 +1,4 @@
-package Strategy.version2;
+package Strategy.version3;
 
 public class Client {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Strategy.version2;
+package Strategy.version3;
 
 public interface CalculatePath {
     void findpath(String src, String dst);
